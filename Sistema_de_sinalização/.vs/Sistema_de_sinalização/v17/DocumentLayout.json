@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B42EE-580A-4FE7-AD96-CC7E4910241A}|Sistema_de_sinaliza\u00E7\u00E3o.csproj|e:\\ifaci\\c#\\aula_03\\sistema_de_sinaliza\u00E7\u00E3o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19B42EE-580A-4FE7-AD96-CC7E4910241A}|Sistema_de_sinaliza\u00E7\u00E3o.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B42EE-580A-4FE7-AD96-CC7E4910241A}|Sistema_de_sinaliza\u00E7\u00E3o.csproj|E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E19B42EE-580A-4FE7-AD96-CC7E4910241A}|Sistema_de_sinaliza\u00E7\u00E3o.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAASwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:58:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\IFACI\\C#\\Aula_03\\Sistema_de_sinaliza\u00E7\u00E3o\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:45:49.342Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

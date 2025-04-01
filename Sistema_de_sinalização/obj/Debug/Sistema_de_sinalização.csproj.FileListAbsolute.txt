@@ -1,0 +1,10 @@
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\bin\Debug\Sistema_de_sinalização.exe.config
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\bin\Debug\Sistema_de_sinalização.exe
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\bin\Debug\Sistema_de_sinalização.pdb
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.csproj.AssemblyReference.cache
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.Form1.resources
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.Properties.Resources.resources
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.csproj.GenerateResource.cache
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.csproj.CoreCompileInputs.cache
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.exe
+E:\IFACI\C#\Aula_03\Sistema_de_sinalização\obj\Debug\Sistema_de_sinalização.pdb
