@@ -13,16 +13,25 @@ using System.Windows.Forms;
 namespace Tanque
 {
     public partial class Form1 : Form
+
+      
     {
+
+
+
         public Form1()
         {
             InitializeComponent();
+            
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
+
         {
             lblHora.Text = DateTime.Now.ToString("HH:mm:ss");
             lblData.Text = DateTime.Now.ToString("dd/MM/yyyy");
+            
             lblData.Visible=true;
             lblHora.Visible=true;
         }
@@ -30,24 +39,27 @@ namespace Tanque
         private void btnLigar_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Sistema iniciado!", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
-           
+            
+            lblNivelMaximo.Visible=true;
+            lblNivelMaximo.Enabled=true;
+            lblNivelMinimo.Visible=false;
+            lblNivelMinimo.Enabled=false;
 
-            while (progressBarNivel.Value < progressBarNivel.Maximum) {
-                progressBarNivel.Value++;
-                lblNivelMaximo.Visible=true;
-                
-            }
+           
+            
         }
 
         private void btnDesligar_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Sistema desligado!", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-            while (progressBarNivel.Value > progressBarNivel.Minimum){
-                progressBarNivel.Value --;
-                lblNivelMinimo.Visible = true;
+            lblNivelMaximo.Visible = false;
+            lblNivelMaximo.Enabled = false;
+            lblNivelMinimo.Visible = true;
+            lblNivelMinimo.Enabled = true;
 
-            }
+
+
         }
 
         private void btnSair_Click(object sender, EventArgs e)

@@ -162,13 +162,16 @@
             // 
             // lblNivelMaximo
             // 
+            this.lblNivelMaximo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblNivelMaximo.Enabled = false;
             this.lblNivelMaximo.Image = global::Tanque.Properties.Resources.Tanque_de_Mistura_On2;
             this.lblNivelMaximo.ImageKey = "(nenhum/a)";
             this.lblNivelMaximo.Location = new System.Drawing.Point(363, 132);
             this.lblNivelMaximo.Name = "lblNivelMaximo";
-            this.lblNivelMaximo.Size = new System.Drawing.Size(296, 205);
+            this.lblNivelMaximo.Size = new System.Drawing.Size(138, 205);
             this.lblNivelMaximo.TabIndex = 8;
             this.lblNivelMaximo.Text = "Nivel Maximo";
+            this.lblNivelMaximo.TextAlign = System.Drawing.ContentAlignment.BottomRight;
             this.lblNivelMaximo.Click += new System.EventHandler(this.lblNivelMaximo_Click);
             // 
             // lblNivelMinimo
@@ -176,19 +179,20 @@
             this.lblNivelMinimo.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.lblNivelMinimo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblNivelMinimo.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.lblNivelMinimo.ForeColor = System.Drawing.Color.Cyan;
+            this.lblNivelMinimo.ForeColor = System.Drawing.Color.Black;
             this.lblNivelMinimo.Image = global::Tanque.Properties.Resources.Tanque_de_Mistura_Off2;
             this.lblNivelMinimo.Location = new System.Drawing.Point(366, 131);
             this.lblNivelMinimo.Name = "lblNivelMinimo";
-            this.lblNivelMinimo.Size = new System.Drawing.Size(293, 200);
+            this.lblNivelMinimo.Size = new System.Drawing.Size(135, 200);
             this.lblNivelMinimo.TabIndex = 7;
             this.lblNivelMinimo.Text = "Nivel Minimo";
+            this.lblNivelMinimo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(918, 610);
+            this.ClientSize = new System.Drawing.Size(1422, 681);
             this.Controls.Add(this.btnNotas);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.btnEmergencia);

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AAA3C43-6B61-4D07-A7F7-5A40380938AA}|Tanque\\Tanque.csproj|d:\\ifaci\\c#\\exerciciotanque\\tanque\\tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2AAA3C43-6B61-4D07-A7F7-5A40380938AA}|Tanque\\Tanque.csproj|solutionrelative:tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\Tanque\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tanque\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AAA3C43-6B61-4D07-A7F7-5A40380938AA}|Tanque\\Tanque.csproj|d:\\ifaci\\c#\\exerciciotanque\\tanque\\tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AAA3C43-6B61-4D07-A7F7-5A40380938AA}|Tanque\\Tanque.csproj|solutionrelative:tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\ifaci\\c#\\exerciciotanque\\tanque\\tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tanque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\Tanque\\Form1.cs",
               "RelativeDocumentMoniker": "Tanque\\Form1.cs",
               "ToolTip": "D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\Tanque\\Form1.cs",
               "RelativeToolTip": "Tanque\\Form1.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAIAwwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:16:53.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T02:16:53.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\Tanque\\Form1.cs",
               "RelativeDocumentMoniker": "Tanque\\Form1.cs",
               "ToolTip": "D:\\IFACI\\C#\\ExercicioTanque\\Tanque\\Tanque\\Form1.cs [Design]",
               "RelativeToolTip": "Tanque\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:40:59.16Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-02T01:40:59.16Z"
             }
           ]
         }
