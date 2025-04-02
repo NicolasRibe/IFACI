@@ -1,0 +1,10 @@
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\bin\Debug\Tanque.exe.config
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\bin\Debug\Tanque.exe
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\bin\Debug\Tanque.pdb
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.csproj.AssemblyReference.cache
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.Form1.resources
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.Properties.Resources.resources
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.csproj.GenerateResource.cache
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.csproj.CoreCompileInputs.cache
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.exe
+D:\IFACI\C#\ExercicioTanque\Tanque\Tanque\obj\Debug\Tanque.pdb
