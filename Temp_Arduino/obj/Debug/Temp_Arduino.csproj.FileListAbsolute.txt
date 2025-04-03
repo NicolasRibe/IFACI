@@ -1,0 +1,12 @@
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.csproj.AssemblyReference.cache
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.Termometro.resources
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.Properties.Resources.resources
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.csproj.GenerateResource.cache
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.csproj.CoreCompileInputs.cache
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\bin\Debug\Temp_Arduino.exe.config
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\bin\Debug\Temp_Arduino.exe
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\bin\Debug\Temp_Arduino.pdb
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\bin\Debug\ThermometerControl.dll
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Ard.2DE1C4A2.Up2Date
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.exe
+E:\IFACI\C#\Temp_arduino\Temp_Arduino\obj\Debug\Temp_Arduino.pdb
