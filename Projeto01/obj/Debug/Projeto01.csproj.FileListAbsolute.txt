@@ -1,0 +1,12 @@
+E:\IFACI\C#\Projeto01\Projeto01\bin\Debug\Projeto01.exe.config
+E:\IFACI\C#\Projeto01\Projeto01\bin\Debug\Projeto01.exe
+E:\IFACI\C#\Projeto01\Projeto01\bin\Debug\Projeto01.pdb
+E:\IFACI\C#\Projeto01\Projeto01\bin\Debug\AGauge.dll
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.AssemblyReference.cache
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.Form1.resources
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.Properties.Resources.resources
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.GenerateResource.cache
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.Up2Date
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.exe
+E:\IFACI\C#\Projeto01\Projeto01\obj\Debug\Projeto01.pdb
